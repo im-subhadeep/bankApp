@@ -2,7 +2,7 @@
 
 Welcome to the Fintech Banking Application! This web application is designed to facilitate seamless banking operations among Admins, Lenders, and Borrowers. Built with a modern tech stack, it offers a user-friendly interface for managing loans and repayments.
 
-![Banking Application]([https://github.com/yatunyi15075/BankApplication/blob/master/frontend/src/assets/6.png](https://media-hosting.imagekit.io/3b1802ec12194c1f/svgviewer-output%20(4).svg?Expires=1838966255&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=WHblhkSN6RFjcLIp0l00JQW1bUsoPqyEEBpIiFKorN0Nd2OfLHPTFBDo3-Z~e9QB6FBpyExqbkyZW5NwzWVrCY2cc~X5-zYRHZU1qI35mOHlu6ZDtN8yW5T3kjknzcU~AfIlLkIqL5EMCV-cZzOIdUt3WyF6jSaJtIYgtSqlGaL7e6qGYLR-q2ErEZ-Pdjsp8XaTeo1WnyKJgLT4ZEsB~6gl5kBlj99bGUIlVjBER0COkcLdZuFB-J8g4cHFpAdZQ8rxdstsjPct1bIyCZwunvQKxRmYQfwjTl62iHdxGp094k0ApgdQocsp9Omgv5qsPMtu~NmlRyHlZlzbijErlw__))
+![Banking Application](https://media-hosting.imagekit.io/3b1802ec12194c1f/svgviewer-output%20(4).svg?Expires=1838966255&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=WHblhkSN6RFjcLIp0l00JQW1bUsoPqyEEBpIiFKorN0Nd2OfLHPTFBDo3-Z~e9QB6FBpyExqbkyZW5NwzWVrCY2cc~X5-zYRHZU1qI35mOHlu6ZDtN8yW5T3kjknzcU~AfIlLkIqL5EMCV-cZzOIdUt3WyF6jSaJtIYgtSqlGaL7e6qGYLR-q2ErEZ-Pdjsp8XaTeo1WnyKJgLT4ZEsB~6gl5kBlj99bGUIlVjBER0COkcLdZuFB-J8g4cHFpAdZQ8rxdstsjPct1bIyCZwunvQKxRmYQfwjTl62iHdxGp094k0ApgdQocsp9Omgv5qsPMtu~NmlRyHlZlzbijErlw__)
 
 ## Features
 
